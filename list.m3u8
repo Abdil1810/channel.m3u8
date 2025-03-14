@@ -95,6 +95,156 @@ https://cctv.banjarmasinkota.go.id/stream/cam40/mystream.m3u8
 #EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
 https://cctv.banjarmasinkota.go.id/stream/cam39/mystream.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Taman Kelayan 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam38/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Taman Kelayan 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam37/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Taman Kelayan 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam36/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Taman Kelayan 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam35/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", TPS Kuripan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam34/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", TPS Kuripan kanan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam33/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", TPS Kuripan kiri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam32/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Jembatan Patih Masih 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam31/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Jembatan Patih Masih 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam30/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Jembatan Patih Masih 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam29/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Jembatan Patih Masih 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam28/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Wisata Kuliner Kampung Arab 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam27/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Wisata Kuliner Kampung Arab 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam26/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Wisata Kuliner Kampung Arab 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam25/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Apung Siring 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam24/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Apung Siring 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam23/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Apung Siring 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam22/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Apung Siring 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam21/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Patung Bekantan 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam20/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Patung Bekantan 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam19/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Patung Bekantan 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam18/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Kamboja 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam7/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Kamboja 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam6/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Kamboja 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam5/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s" group-title="CCTV BANJARMASIN", Kamboja 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam4/mystream.m3u8
+
 ######################################################################TV CHANNELS#############################################################################################################################################
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
