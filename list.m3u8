@@ -7,6 +7,40 @@ https://drive.google.com/uc?id=1o2p5nTGbAAfWaWCIxX0rP7ya_yDEOs3Z&export=download
 #EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://drive.google.com/uc?id=1lskZG_sOD55IW2UAJ121xHdMbyTv8joF&export=download" group-title="INFORMASI", DISCLAIMER ADMIN TIDAK BISA MEMASUKKAN CHANNEL BERBAYAR SEPERTI LIGA BRI KARENA ADMIN KERE WKK
 https://drive.google.com/uc?id=1o2p5nTGbAAfWaWCIxX0rP7ya_yDEOs3Z&export=download
 
+-----------------------------------------------------------------------cctv Banjarmasin--------------------------------------------------
+
+#EXTM3U
+
+#EXTINF:-1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s group-title="CCTV BANJARMASIN", Halaman Jembatan Pulau Bromo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJkKJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam52/mystream.m3u8
+
+#EXTINF:-1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s group-title="CCTV BANJARMASIN", Halaman Jembatan Pulau Bromo 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam51/mystream.m3u8
+
+#EXTINF:-1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s group-title="CCTV BANJARMASIN", Samping Tugu 0 KM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam50/mystream.m3u8
+
+#EXTINF:-1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s group-title="CCTV BANJARMASIN", Tugu 0km
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam49/mystream.m3u8
+
+#EXTINF:-1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyW23H075AStI9E3-kAoX5zJKO9vEG5C2j8Q&s group-title="CCTV BANJARMASIN", Simpang 3 Tunggu 0km
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
+https://cctv.banjarmasinkota.go.id/stream/cam4/mystream.m3u8
+
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
