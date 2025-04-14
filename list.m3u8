@@ -404,7 +404,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
  
-#EXTINF:-1 group-title="Nasional Lokal MK" tvg-id="TransTV.id" tvg-logo="https://4.bp.blogspot.com/-yHhdGkpgIps/W-7GvT9yNyI/AAAAAAAAFAM/vFDa2QmWMMohLL9JxrfvApuNwLpKnlgVgCLcBGAs/s1600/TransTV.png",Transtv (DT)
+#EXTINF:-1 group-title="Nasional Lokal MK" tvg-id="TransTV.id" tvg-logo="https://carigaji.com/wp-content/uploads/2022/07/Profil-Perusahaan-Transmedia-630x380.png",Transtv (DT)
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
