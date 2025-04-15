@@ -487,25 +487,12 @@ http://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
  
- 
- 
- 
- 
- 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/Wj6qu6M.png" group-title="Nasional Lokal MK",ANTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
- 
- 
- 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="Nasional Lokal MK" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
-https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
- 
- 
- 
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="Nasional Lokal MK",TVRI Nasional
@@ -518,10 +505,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://g20culture.indonesiana.tv/_nuxt/img/cover.6b9be5b.png" group-title="Nasional Lokal MK",Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
- 
- 
- 
- 
  
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_psqdb637/landscape.png" group-title="Nasional Lokal MK",Allplay Ent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -619,8 +602,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 ############################################national news ########################
 
 #EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://iili.io/JV3xZtS.png" group-title="NATIONAL NEWS",Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
  
 #EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" group-title="NATIONAL NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
