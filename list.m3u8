@@ -499,7 +499,10 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
  
- 
+#EXTINF:-1 tvg-id="DUTA TV - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Nasional Lokal MK",DUTA TV
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.nusantaratv.com/2024/06/siaran-1719414787-06-2024.jpg" group-title="Nasional Lokal MK",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
