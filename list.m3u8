@@ -1318,70 +1318,70 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Aniplu
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="640@360",ASHIIL TV 2
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="TV SUNNAH" resolution="640@360",ASHIIL TV 2
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://youtv.id/data/channel/dei-kids-tv_20230112175023.jpeg" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="1280@720",Dei Kids
+#EXTINF:-1 tvg-logo="https://youtv.id/data/channel/dei-kids-tv_20230112175023.jpeg" group-title="TV SUNNAH" resolution="1280@720",Dei Kids
 https://e.siar.us/live/deikidstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="854@480",MAKKAH TV
+#EXTINF:-1 tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="TV SUNNAH" resolution="854@480",MAKKAH TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0f6KAwh2Jwc5tBIjM88ZVxOOT9w1F-PD3XA&s" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="1280@720",MADINAH TV
+#EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0f6KAwh2Jwc5tBIjM88ZVxOOT9w1F-PD3XA&s" group-title="TV SUNNAH" resolution="1280@720",MADINAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:network-caching=1000
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/surautv.png" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="1280@720",SURAU TV
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/surautv.png" group-title="TV SUNNAH" resolution="1280@720",SURAU TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/wesal.png" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="854@480",WESAL TV
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/wesal.png" group-title="TV SUNNAH" resolution="854@480",WESAL TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://streaming.artvisi.or.id/assets/img/artvisi.png" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="1280@720",ARTVISI
+#EXTINF:-1 tvg-logo="https://streaming.artvisi.or.id/assets/img/artvisi.png" group-title="TV SUNNAH" resolution="1280@720",ARTVISI
 https://streaming.yufid.com/hls/artvisi.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png" group-title="TV SUNNAH & ABAH SEKUMPUL",Radio Al Iman
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/suaraaliman.png" group-title="TV SUNNAH",Radio Al Iman
 https://radioislamindonesia.com/aliman.mp3?_=2
 
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png" group-title="TV SUNNAH & ABAH SEKUMPUL",Radio RODJA
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiorodja.png" group-title="TV SUNNAH",Radio RODJA
 https://radioislamindonesia.com/rodja-low.mp3?_=1
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0RjrdJtCe7ie0XeuLQ9lDW4-cQrgfZSqAlQ&usqp=CAU" group-title="TV SUNNAH & ABAH SEKUMPUL",Radio Kita Cirebon
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0RjrdJtCe7ie0XeuLQ9lDW4-cQrgfZSqAlQ&usqp=CAU" group-title="TV SUNNAH",Radio Kita Cirebon
 https://sunnah.radio.yufid.com/;stream.mp3
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmkvWaBxEJtWwMoOltHm5bxP28wTLiv1bSvqC0NLMRnkRfrgFTNtkLdRr&s=10" group-title="TV SUNNAH & ABAH SEKUMPUL",Radio KSA Sunnah
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmkvWaBxEJtWwMoOltHm5bxP28wTLiv1bSvqC0NLMRnkRfrgFTNtkLdRr&s=10" group-title="TV SUNNAH",Radio KSA Sunnah
 https://radiosunna.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tQ-zo_la_JpWWfNtxtT-gROFNtB8z68iqg&usqp=CAU" group-title="TV SUNNAH & ABAH SEKUMPUL",Radio Ruqyah
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tQ-zo_la_JpWWfNtxtT-gROFNtB8z68iqg&usqp=CAU" group-title="TV SUNNAH",Radio Ruqyah
 https://stream-40.zeno.fm/pz72fq579f0uv?zs=Ul5sqtHcSt2egYs9SrjFzw
 
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/amoeba.png" group-title="TV SUNNAH & ABAH SEKUMPUL",Radio Amoeba FM
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/amoeba.png" group-title="TV SUNNAH",Radio Amoeba FM
 http://live.syaria.net:9300/;?1672826390470
 
-#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiodai.png" group-title="TV SUNNAH & ABAH SEKUMPUL",Radio DAI
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/radiodai.png" group-title="TV SUNNAH",Radio DAI
 http://pu.klikhost.com:7204/stream?1672828237600
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="1280@720",Al Wafa Tarim TV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="TV SUNNAH" resolution="1280@720",Al Wafa Tarim TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mqtv.png" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="1280@720",MQTV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mqtv.png" group-title="TV SUNNAH" resolution="1280@720",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="1280@720",Madani TV
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png" group-title="TV SUNNAH" resolution="1280@720",Madani TV
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tv9.png" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="1280@720",tv9 Nusantara
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tv9.png" group-title="TV SUNNAH" resolution="1280@720",tv9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="854@480",MUI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="TV SUNNAH" resolution="854@480",MUI TV
 https://tvmui.siar.us/tvmui/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://brtv.co.id/wp-content/uploads/2022/11/Logo-BRTV.png" group-title="TV SUNNAH & ABAH SEKUMPUL" resolution="1280@720",BRTV
+#EXTINF:-1 tvg-logo="https://brtv.co.id/wp-content/uploads/2022/11/Logo-BRTV.png" group-title="TV SUNNAH" resolution="1280@720",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-JgQSX7Bxwvc/T_jtpjkNHDI/AAAAAAAAEe4/dbNeAuWwuUMWXzWQkldX57vsYhHjehRbQ/s1600/548271_434777799867691_100000064243953_1716166_784610735_n.jpg" group-title="TV SUNNAH & ABAH SEKUMPUL",Maulid Tahun 1995
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-JgQSX7Bxwvc/T_jtpjkNHDI/AAAAAAAAEe4/dbNeAuWwuUMWXzWQkldX57vsYhHjehRbQ/s1600/548271_434777799867691_100000064243953_1716166_784610735_n.jpg" group-title="TV SUNNAH",Maulid Tahun 1995
 https://drive.google.com/uc?export=download&id=12anl9i3b0BMgZdh4g6KtbYQe1PSwfIp2
 
 
