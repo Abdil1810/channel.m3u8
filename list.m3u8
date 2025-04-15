@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://png.pngtree.com/png-vector/20220204/ourlarge/pngtree-access-denied-vintage-metallic-sign-panel-no-fashioned-vector-png-image_23618244.png" group-title="Akses Terblokir", Untuk Sementara akses ke sportstar 2 masih belum bisa karena link terus update admin masih berusaha mencari link terbaru dan permnen
-https://png.pngtree.com/png-vector/20220204/ourlarge/pngtree-access-denied-vintage-metallic-sign-panel-no-fashioned-vector-png-image_23618244.png
-
 #EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://th.bing.com/th/id/OIP.bU0knxreaQXt5Lv8DNTY_wHaEK?w=3840&h=2160&rs=1&pid=ImgDetMain" group-title="Youtube Premium Khusus STB", Hanya 10K Perbulan hubungi admin untuk aktivasi
 https://drive.google.com/uc?export=download&id=12LA-ToPacc_bPxvB2C_Dqko7arpfnQyJ
 
@@ -990,13 +987,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="SPORTS",Sportstars 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-
-
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/dIcTZj3.png",Sportstars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
