@@ -1,12 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="bidah",bid
-https://macdn.aoneroom.com/media/vone/2025/03/31/413deca1834c0d29bdba710bb711ce67-sd.mp4
-
-#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://www.meme-arsenal.com/memes/18b4c423815909c8059da5e5a67f6eda.jpg" group-title="MU VS Lyon", Pertandingan leg kedua babak perempat-final Liga Europa 2024/25 antara Manchester United dan Lyon akan disiarkan di channel beIN Sports melalui Vidio pada Jumat, 18 April 2025 pukul 02:00 WIB.
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
-
 
 #EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://www.meme-arsenal.com/memes/18b4c423815909c8059da5e5a67f6eda.jpg" group-title="INFORMASI", Mohon Maaf Jika Ada Keterlambatan Dalam Update Playlist Admin Banyak Kerjaan
 https://drive.google.com/uc?export=download&id=12LA-ToPacc_bPxvB2C_Dqko7arpfnQyJ
