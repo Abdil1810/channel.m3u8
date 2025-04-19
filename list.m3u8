@@ -455,7 +455,7 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Nasional Lokal MK",RCTI Back Up
+#EXTINF:-1  tvg-logo="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="Nasional Lokal MK",RCTI Back Up
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
