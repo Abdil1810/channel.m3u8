@@ -1223,7 +1223,7 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Aniplu
 #EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png" group-title="TV SUNNAH" resolution="640@360",ASHIIL TV 2
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://youtv.id/data/channel/dei-kids-tv_20230112175023.jpeg" group-title="TV SUNNAH MAulid Abah Guru Sekum" resolution="1280@720",Dei Kids
+#EXTINF:-1 tvg-logo="https://youtv.id/data/channel/dei-kids-tv_20230112175023.jpeg" group-title="TV SUNNAH" resolution="1280@720",Dei Kids
 https://e.siar.us/live/deikidstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="TV SUNNAH" resolution="854@480",MAKKAH TV
