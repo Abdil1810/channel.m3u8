@@ -938,6 +938,25 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title=“Sports Premium MK Uji Coba 7 Hari”,ESPN 1
+https://cr7v.short.gy/manoiTVOP1/spnHD/ZAP075991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title=“Sports Premium MK Uji Coba 7 Hari”,ESPN 2
+http://zutufo.in:80/live/781487031/K788a6763d/212_.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title=“Sports Premium MK Uji Coba 7 Hari”,ESPN 3
+http://zutufo.in:80/live/781487031/K788a6763d/218_.m3u8
+            
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title=“Sports Premium MK Uji Coba 7 Hari”,ESPN 4
+http://zutufo.in:80/live/781487031/K788a6763d/223_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title=“Sports Premium MK Uji Coba 7 Hari”,ESPN 5
+http://zutufo.in:80/live/781487031/K788a6763d/284585_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title=“Sports Premium MK Uji Coba 7 Hari”,ESPN 6
+http://zutufo.in:80/live/781487031/K788a6763d/243_.m3u8
+
+
 
 
 
