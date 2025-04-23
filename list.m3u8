@@ -505,6 +505,9 @@ https://drive.usercontent.google.com/download?id=1AEE0hVoIgqK3QG2Chl1DixPT6FKgib
 #EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/03/29/vina-sebelum-7-hari_169.jpeg?w=1200" group-title="FILM REQUEST",Vina before 7 hari
 https://drive.usercontent.google.com/download?id=1AK42ppxumGiftdX687f4j1-oVcdbXFb3&export=download&authuser=1&confirm=t&uuid=5ba7df49-5c9e-49f9-89dc-3bac71010a17&at=APcmpoxsu8fmWotflXuzW-BuinlG:1745283185627
 
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://i.ytimg.com/vi/3o9YdO_QSbc/sddefault.jpg" group-title="FILM REQUEST",Vina before 7 hari
+https://drive.usercontent.google.com/download?id=1AfVQhrmhZ_tsIIcy_CyohRDimjdRFBw6&export=download&authuser=3&confirm=t&uuid=dfa2b47b-fbaa-4eee-a1ab-e401eb4dd758&at=APcmpowDvdhlMod_BQhVfpiR4gI6:1745444721893
+
 
 
 
@@ -1098,11 +1101,10 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
   
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS",Champions TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
  
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/3t3zHq1HLp4HOlhQfZA1-rc7QQ4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="SPORTS",Champions TV 2
