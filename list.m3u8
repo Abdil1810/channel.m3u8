@@ -587,66 +587,6 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsda
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 group-title="🇮🇩 Sport ViP MK" tvg-logo="https://www.tvarenasport.com/data/images/2023-02-13/429_tv-arena-sport_f.jpg",Arena Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/satu.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
-
-#EXTINF:-1 group-title="🇮🇩 Sport ViP MK" tvg-logo="https://www.tvarenasport.com/data/images/2023-02-13/429_tv-arena-sport_f.jpg",Arena Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/dua.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
-
-#EXTINF:-1 group-title="🇮🇩 Sport ViP MK" tvg-logo="https://www.tvarenasport.com/data/images/2023-02-13/429_tv-arena-sport_f.jpg",Arena Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/tiga.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
-
-
-#EXTINF:-1 group-title="🇮🇩 Sport ViP MK" tvg-logo="https://www.tvarenasport.com/data/images/2023-02-13/429_tv-arena-sport_f.jpg",Arena Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/empat.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
-
-#EXTINF:-1 group-title="🇮🇩 Sport ViP MK" tvg-logo="https://www.tvarenasport.com/data/images/2023-02-13/429_tv-arena-sport_f.jpg",Arena Sport 5 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/lima.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
-
-#EXTINF:-1 group-title="🇮🇩 Sport ViP MK" tvg-logo="https://www.tvarenasport.com/data/images/2023-02-13/429_tv-arena-sport_f.jpg",Arena Sport 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/enam.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
-
-#EXTINF:-1 group-title="🇮🇩 Sport ViP MK" tvg-logo="https://www.tvarenasport.com/data/images/2023-02-13/429_tv-arena-sport_f.jpg",Arena Sport 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/tujuh.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
-
-#EXTINF:-1 group-title="🇮🇩 Sport ViP MK" tvg-logo="https://www.tvarenasport.com/data/images/2023-02-13/429_tv-arena-sport_f.jpg",Arena Sport 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/delapan.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
-
-#EXTINF:-1 group-title="🇮🇩 Sport ViP MK" tvg-logo="https://www.tvarenasport.com/data/images/2023-02-13/429_tv-arena-sport_f.jpg",Arena Sport 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/sembilan.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
-
-#EXTINF:-1 group-title="🇮🇩 Sport ViP MK" tvg-logo="https://www.tvarenasport.com/data/images/2023-02-13/429_tv-arena-sport_f.jpg",Arena Sport 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/sepuluh.json
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="🇮🇩 Sport ViP MK",SONY TEN 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="🇮🇩 Sport ViP MK",SONY TEN 2 HD
@@ -657,6 +597,7 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="🇮🇩 Sport ViP MK", SONY TEN 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
 =======SKY SPORT====
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZjPwtt9.jpg" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 1
