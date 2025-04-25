@@ -472,6 +472,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 #EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://occ-0-8407-2433.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABQe4NTgL3kQk_C7v3UdDiJvDilMGFyFy24efLpQXGnonbJppXXRkuhY4K_D_8tZHdcVxUBMgcv4RN7vK9KRYIP3aSIF_4_GecXeC.jpg?r=42c" group-title="DRAMA ASIA", Resident Playbook(2025) EPS 1
 https://be2719.rcr22.ams01.cdn255.com/hls2/01/08763/iuqdn9k3kamg_n/index-v1-a1.m3u8?t=FZdvURMGeGAQMUyeMXURMOkPK1D-aQQ8mDK9JMiKw1s&s=1745578655&e=10800&f=43816933&srv=39&asn=7713&sp=4000&p=
 
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://occ-0-8407-2433.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABQe4NTgL3kQk_C7v3UdDiJvDilMGFyFy24efLpQXGnonbJppXXRkuhY4K_D_8tZHdcVxUBMgcv4RN7vK9KRYIP3aSIF_4_GecXeC.jpg?r=42c" group-title="DRAMA ASIA", Resident Playbook(2025) EPS 2
+https://be6721.rcr72.waw04.cdn255.com/hls2/01/08767/9qf1dkqtljar_h/index-v1-a1.m3u8?t=KlMJihowOiB3-UOTtXOStJxkeBScH-FgaPhCk30dsZA&s=1745579935&e=10800&f=43839796&srv=35&asn=7713&sp=4000&p=
+
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://occ-0-8407-2433.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABQe4NTgL3kQk_C7v3UdDiJvDilMGFyFy24efLpQXGnonbJppXXRkuhY4K_D_8tZHdcVxUBMgcv4RN7vK9KRYIP3aSIF_4_GecXeC.jpg?r=42c" group-title="DRAMA ASIA", Resident Playbook(2025) EPS 3
+https://be2719.rcr22.ams01.cdn255.com/hls2/01/08797/13tll76t0ymz_n/index-v1-a1.m3u8?t=3wDtzyZILALgDQZwrWUpfhff2KfL7N4KXHsfuIrIMyQ&s=1745580031&e=10800&f=43988248&srv=52&asn=7713&sp=4000&p=
+
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://occ-0-8407-2433.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABQe4NTgL3kQk_C7v3UdDiJvDilMGFyFy24efLpQXGnonbJppXXRkuhY4K_D_8tZHdcVxUBMgcv4RN7vK9KRYIP3aSIF_4_GecXeC.jpg?r=42c" group-title="DRAMA ASIA", Resident Playbook(2025) EPS 4
+https://be2719.rcr22.ams01.cdn255.com/hls2/01/08802/f5mki82o2f1i_n/index-v1-a1.m3u8?t=1feAnk57YYWGy97xvNi10lRjhfNU56E19qjel2bkX9A&s=1745580073&e=10800&f=44013490&srv=25&asn=7713&sp=4000&p=
+
+
+
+
+
 
 
 ###################################################----------------------------------fILM REQUEST-----------------------------------------------------------#####################################################
@@ -1330,7 +1343,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 #EXTVLCOPT:http-reconnect=true
 http://filex.tv:8080/Home329/Sohailhome/302264
  
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title"SPORTS",Champions TV 1
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="🔴PREMIUM SPORT",Champions TV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1340,7 +1353,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 
 
 
-#EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHhZ7FRYzUwguZEO9bMS6h2EcUVm15_UO7S752Zxbd-WU7D6ck_J2zzg&s=10" group-title="SPORTS",Champions TV 2
+#EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHhZ7FRYzUwguZEO9bMS6h2EcUVm15_UO7S752Zxbd-WU7D6ck_J2zzg&s=10" group-title="🔴PREMIUM SPORT",Champions TV 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1350,7 +1363,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
  
 
-#EXTINF:-1 tvg-id="Champions TV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf2N_wkrTS5jjukrnos87k58yyzuD7mZTqA&s" group-title="SPORTS",Champions TV 3
+#EXTINF:-1 tvg-id="Champions TV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf2N_wkrTS5jjukrnos87k58yyzuD7mZTqA&s" group-title="🔴PREMIUM SPORT",Champions TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1360,7 +1373,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 
 
-#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s" group-title="SPORTS",Champions TV 5
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s" group-title="🔴PREMIUM SPORT",Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1370,7 +1383,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 
 
 
-#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFc81aUs7m_kZF4GDOSs0jCsfZPCISwAlDxw&s" group-title="SPORTS",Champions TV 6
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFc81aUs7m_kZF4GDOSs0jCsfZPCISwAlDxw&s" group-title="🔴PREMIUM SPORT",Champions TV 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
