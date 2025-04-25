@@ -981,6 +981,27 @@ http://zutufo.in:80/live/781487031/K788a6763d/284585_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="🇮🇩 Sport ViP MK",ESPN 6
 http://zutufo.in:80/live/781487031/K788a6763d/243_.m3u8
 
+##################-------------DAZN-----------##################
+
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="🇮🇩 Sport ViP MK", DAZN PT 1
+http://Supersonictv.live:8080/051778/805424/7626
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="🇮🇩 Sport ViP MK", DAZN PT 2
+http://Supersonictv.live:8080/051778/805424/7629
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="🇮🇩 Sport ViP MK", DAZN PT 3
+http://Supersonictv.live:8080/051778/805424/7630
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="🇮🇩 Sport ViP MK", DAZN PT 4
+http://Supersonictv.live:8080/051778/805424/7633
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="🇮🇩 Sport ViP MK", DAZN PT 5
+http://Supersonictv.live:8080/051778/805424/7634
+
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="🇮🇩 Sport ViP MK", DAZN PT 6
+http://Supersonictv.live:8080/051778/805424/7636
+
 
 
           =======TRUEVISION======
