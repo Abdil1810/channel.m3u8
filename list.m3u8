@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://startingeleven.id/wp-content/uploads/2025/04/Copa-Del-Rey-Final.png" group-title="Event",27 APRIL 2025 SSC 1
+#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://startingeleven.id/wp-content/uploads/2025/04/Copa-Del-Rey-Final.png" group-title="Event",27 APRIL 2025 SSC 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
 
 
