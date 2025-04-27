@@ -244,27 +244,27 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
   
 
   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YOLcaHx.jpg" group-title=“BOCIL TV” ,WALAD TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YOLcaHx.jpg" group-title="DUNIA SI KECIL" ,WALAD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch30.m3u8
   
-#EXTINF:-1 group-title=“BOCIL TV”tvg-logo="https://i.imgur.com/CU83pY3.jpg",EBS KIDS
+#EXTINF:-1 group-title="DUNIA SI KECIL"tvg-logo="https://i.imgur.com/CU83pY3.jpg",EBS KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8 
   
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
-#EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/mXPjQUe.jpg" group-title=“BOCIL TV”,KIDS TV
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/mXPjQUe.jpg" group-title="DUNIA SI KECIL",KIDS TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Kids-HD/sa_dash/Kids-HD.mpd
 
-#EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/24Bjgvb.jpg" group-title=“BOCIL TV”,MYKIDZ
+#EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/24Bjgvb.jpg" group-title="DUNIA SI KECIL",MYKIDZ
 #http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
   
-#EXTINF:-1 group-title=“BOCIL TV”tvg-logo="https://i.imgur.com/nliqJLH.jpg",MY KIDZ-INDI
+#EXTINF:-1 group-title="DUNIA SI KECIL"tvg-logo="https://i.imgur.com/nliqJLH.jpg",MY KIDZ-INDI
 https://cdn14jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k0YrqgJ.jpg" group-title=“BOCIL TV”,ZOOMOO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0YrqgJ.jpg" group-title="DUNIA SI KECIL",ZOOMOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -273,28 +273,28 @@ https://cdn14jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/EG8iOxT.jpg" group-title=“BOCIL TV”,CBEEBIES
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/EG8iOxT.jpg" group-title="DUNIA SI KECIL",CBEEBIES
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QmNpdCU.jpg" group-title=“BOCIL TV”,BIZNET KIDS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmNpdCU.jpg" group-title="DUNIA SI KECIL",BIZNET KIDS HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QmNpdCU.jpg" group-title=“BOCIL TV”,BIZNET KIDS-DT1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmNpdCU.jpg" group-title="DUNIA SI KECIL",BIZNET KIDS-DT1
 #http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vDYVumu.jpg" group-title=“BOCIL TV”,CARTOONITO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vDYVumu.jpg" group-title="DUNIA SI KECIL",CARTOONITO
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p8vLLAs.jpg" group-title=“BOCIL TV”,DREAMWORKS-DT1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p8vLLAs.jpg" group-title="DUNIA SI KECIL",DREAMWORKS-DT1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xzwj7s0.jpg" group-title=“BOCIL TV”,DREAMWORKS INDI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xzwj7s0.jpg" group-title="DUNIA SI KECIL",DREAMWORKS INDI
 #http://indihome.ikitv.live/joss/133/dreamworks/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -303,7 +303,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PVgw79x.jpg" group-title=“BOCIL TV”,NICKELODEON
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVgw79x.jpg" group-title="DUNIA SI KECIL",NICKELODEON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -311,61 +311,61 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/PVgw79x.jpg" group-title=“BOCIL TV” tvg-id="Nickelodeon.id", NICKELODEON
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/PVgw79x.jpg" group-title="DUNIA SI KECIL" tvg-id="Nickelodeon.id", NICKELODEON
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd|Referer=https://www.visionplus.id
   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/Wxo0lda.jpg" group-title=“BOCIL TV” tvg-id="NickJr.id" , NICK JR
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/Wxo0lda.jpg" group-title="DUNIA SI KECIL" tvg-id="NickJr.id" , NICK JR
 https://dsgtq5sngxkde.cloudfront.net/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd|Referer=https://www.visionplus.id
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wxo0lda.jpg" group-title=“BOCIL TV”,NICK JR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wxo0lda.jpg" group-title="DUNIA SI KECIL",NICK JR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXg1fkD.jpg" group-title=“BOCIL TV”,CINEMACHI KIDS-DT1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXg1fkD.jpg" group-title="DUNIA SI KECIL",CINEMACHI KIDS-DT1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
 #https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd|Referer=https://www.visionplus.id/
   
-#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/pXg1fkD.jpg" group-title=“BOCIL TV”, CINEMACHI KIDS
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/pXg1fkD.jpg" group-title="DUNIA SI KECIL", CINEMACHI KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dLj0vIf.jpg" group-title=“BOCIL TV”,CARTOON NETWORK INDI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLj0vIf.jpg" group-title="DUNIA SI KECIL",CARTOON NETWORK INDI
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #https://cdn09jtedge.indihometv.com/dassdvr/194/cartoonnetwork/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gRXcEFJ.jpg" group-title=“BOCIL TV”,CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gRXcEFJ.jpg" group-title="DUNIA SI KECIL",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
 #https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oyIsLIy.jpg" group-title=“BOCIL TV”,DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyIsLIy.jpg" group-title="DUNIA SI KECIL",DISNEY JUNIOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
 https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5pkBoG8.jpg" group-title=“BOCIL TV”,DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pkBoG8.jpg" group-title="DUNIA SI KECIL",DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zYqyef7.jpg" group-title=“BOCIL TV”,HOREE!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zYqyef7.jpg" group-title="DUNIA SI KECIL",HOREE!
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0U7qnn.jpg" group-title=“BOCIL TV”,MENTARI TV INDI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0U7qnn.jpg" group-title="DUNIA SI KECIL",MENTARI TV INDI
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MentariTV.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -374,7 +374,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uh77WXY.jpg" group-title=“BOCIL TV”,DUNIA ANAK INDI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uh77WXY.jpg" group-title="DUNIA SI KECIL",DUNIA ANAK INDI
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-DuniaAnak.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -386,10 +386,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
-#EXTINF:-1 tvg-id="Moonbug" tvg-url="https://bit.ly/UnifyEpg" group-title=“BOCIL TV” tvg-logo="https://i.imgur.com/Q5G9lpP.jpg",MOONBUG
+#EXTINF:-1 tvg-id="Moonbug" tvg-url="https://bit.ly/UnifyEpg" group-title="DUNIA SI KECIL" tvg-logo="https://i.imgur.com/Q5G9lpP.jpg",MOONBUG
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
 
-#EXTINF:-1 group-title=“BOCIL TV” tvg-logo="https://i.imgur.com/rewQtCB.jpg",ANIMAX
+#EXTINF:-1 group-title="DUNIA SI KECIL" tvg-logo="https://i.imgur.com/rewQtCB.jpg",ANIMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
@@ -399,29 +399,29 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1  group-title=“BOCIL TV” tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/TqgAlzC.jpg", ANIPLUS
+#EXTINF:-1  group-title="DUNIA SI KECIL" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://i.imgur.com/TqgAlzC.jpg", ANIPLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zFTFXyZ.jpg" group-title=“BOCIL TV”,VTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFTFXyZ.jpg" group-title="DUNIA SI KECIL",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Viva.m3u8
 
-#EXTINF:-1 tvg-id="45" group-title=“BOCIL TV”  tvg-logo="https://i.imgur.com/hzphLqn.jpg",SPACETOON
+#EXTINF:-1 tvg-id="45" group-title="DUNIA SI KECIL"  tvg-logo="https://i.imgur.com/hzphLqn.jpg",SPACETOON
 #http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="46" group-title=“BOCIL TV”  tvg-logo="https://i.imgur.com/hzphLqn.jpg",SPACETOON HD
+#EXTINF:-1 tvg-id="46" group-title="DUNIA SI KECIL"  tvg-logo="https://i.imgur.com/hzphLqn.jpg",SPACETOON HD
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:-1  group-title=“BOCIL TV” tvg-logo="https://i.imgur.com/aS0VOqd.jpg", BOOMERANG INDI
+#EXTINF:-1  group-title="DUNIA SI KECIL" tvg-logo="https://i.imgur.com/aS0VOqd.jpg", BOOMERANG INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVqLai3.jpg" group-title=“BOCIL TV”,FUN PLANET
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVqLai3.jpg" group-title="DUNIA SI KECIL",FUN PLANET
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Planfun.m3u8 
 
-#EXTINF:-1 group-title=“BOCIL TV” tvg-logo="https://i.imgur.com/qzKqGyI.jpg",DA VINCI ASIA INDI
+#EXTINF:-1 group-title="DUNIA SI KECIL" tvg-logo="https://i.imgur.com/qzKqGyI.jpg",DA VINCI ASIA INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Davinci.m3u8
@@ -429,15 +429,15 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Planfun.m3u
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd  
   
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0SYmSzl.jpg" group-title=“BOCIL TV”, BABYTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0SYmSzl.jpg" group-title="DUNIA SI KECIL", BABYTV
 #EXTVLCOPT:http-user-agent=android-R+
 #https://dl.dropboxusercontent.com/scl/fi/l18hq55a7488qqnb9b063/babytv.m3u8?rlkey=8q6af47mrm9cd0mvxi1w40kyl&st=28ixi0wh
 
-#EXTINF: -1 tvg-id="baby first" tvg-logo="https://i.imgur.com/FA1fcAZ.jpg" group-title=“BOCIL TV”, BABY FIRST
+#EXTINF: -1 tvg-id="baby first" tvg-logo="https://i.imgur.com/FA1fcAZ.jpg" group-title="DUNIA SI KECIL", BABY FIRST
 #EXTVLCOPT:http-user-agent=android-R+
 #https://dl.dropboxusercontent.com/scl/fi/kf1cbn05ifbtluj16z7nf/babyfirst.m3u8?rlkey=gy08vupikxih1cefbb35qfsv9&st=trz0g01o
   
-#EXTINF:-114 group-title=“BOCIL TV” tvg-logo="https://i.imgur.com/y0OWHwF.jpg" ,EDUKASI ANAK-BHS INGGRIS
+#EXTINF:-114 group-title="DUNIA SI KECIL" tvg-logo="https://i.imgur.com/y0OWHwF.jpg" ,EDUKASI ANAK-BHS INGGRIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch143.m3u8
 
