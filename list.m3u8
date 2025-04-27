@@ -683,75 +683,75 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 =======SKY SPORT====
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZjPwtt9.jpg" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGA4C4bPavLdNNFp4ha_Q3YJkptsb6enOUQ&s" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PpMSq85.jpg" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/SkySportsLogo/sky%20sports%202%20hd.jpg" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MPsWZfk.jpg" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShQ9S45R88bucqEmvViNafSPcNxaaCaJW8g&s" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ArS8m6n.jpg" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sky_Sport_4_DE_Logo_2020.svg/2560px-Sky_Sport_4_DE_Logo_2020.svg.png" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J6mqvDb.jpg" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO3voJFZF5yyxGsjCHEXNOsDsQh1H6e8QvqA&s" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
 https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9Ou4P3c.jpg" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTev_1WhlrK6Nv7QuQnARBh45f_Cp6uDHvQaw&s" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7229067cde06e0bedaa0d71ec0c974:da03b65d333e74aaae446211a83c7595
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mlHyWJY.jpg" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTev_1WhlrK6Nv7QuQnARBh45f_Cp6uDHvQaw&s" group-title="🇮🇩 Sport ViP MK"", SKY LIVE 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9e3024854648dd01714f781c1492c4c:9404541975d298f6787c591d2cc871b1
 #https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
   
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4VOKkah.jpg" group-title="🇮🇩 Sport ViP MK"", SKY SPORTS BUNDESLIGA
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0rd_VHmZldQV1lSmfbq0hD4H4ipXaB83Kgw&s" group-title="🇮🇩 Sport ViP MK"", SKY SPORTS BUNDESLIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
   
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iXMNhha.jpg" group-title="🇮🇩 Sport ViP MK"", SKY SPORTS LALIGA
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0rd_VHmZldQV1lSmfbq0hD4H4ipXaB83Kgw&s" group-title="🇮🇩 Sport ViP MK"", SKY SPORTS LALIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
   
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sXgxItC.jpg" group-title="🇮🇩 Sport ViP MK"", SKY SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://finevpn.org/wp-content/uploads/2024/02/skysports.com-logo-logo.png" group-title="🇮🇩 Sport ViP MK"", SKY SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KdKcgXs.jpg" group-title="🇮🇩 Sport ViP MK"", SKY SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi3lrWg7xoEgr-En16U8Xpfd3x5VS713uhqo-z8e6eu7RQp_1Vu3iN_EXgkzUnCgsrFA&usqp=CAU" group-title="🇮🇩 Sport ViP MK"", SKY SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
