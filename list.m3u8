@@ -1474,56 +1474,56 @@ http://filex.tv:8080/Home329/Sohailhome/302264
   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hpl7AA6.jpg" group-title=“MOVIE MK”,AllPlay Ent. INDI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpl7AA6.jpg" group-title="MOVIE MK",AllPlay Ent. INDI
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd  
   
-#EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/F0B2nX4.jpg" group-title=“MOVIE MK”,DUNIA LAIN INDI
+#EXTINF:-1 tvg-id="dunialain.macan" tvg-logo="https://i.imgur.com/F0B2nX4.jpg" group-title="MOVIE MK",DUNIA LAIN INDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
   
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/t9b3GjR.jpg",ATV-INDI
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/t9b3GjR.jpg",ATV-INDI
 https://cdn12jtedge.indihometv.com/atm/DASH/atv/manifest.mpd   
   
-#EXTINF:-1 group-title=“MOVIE MK”tvg-logo="https://i.imgur.com/iFt2QT6.jpg",AXN-INDI
+#EXTINF:-1 group-title="MOVIE MK"tvg-logo="https://i.imgur.com/iFt2QT6.jpg",AXN-INDI
 https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd?ch=ParamountNetworkHD  
 
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/QLA91qm.jpg",PANDA TV INDI
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/QLA91qm.jpg",PANDA TV INDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
   
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/epU2QKi.jpg",CARTOON NETWORK INDI
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/epU2QKi.jpg",CARTOON NETWORK INDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/uphWFXU.jpg",SHENZEN TV
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/uphWFXU.jpg",SHENZEN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
   
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/1p86VRG.jpg",ZHEJIANG TV INDI
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/1p86VRG.jpg",ZHEJIANG TV INDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd 
   
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/IUaRZhB.jpg",NEWTV INDI
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/IUaRZhB.jpg",NEWTV INDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
 
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/g7o1t84.jpg",CITRA DRAMA INDI
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/g7o1t84.jpg",CITRA DRAMA INDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
-#EXTINF:0 tvg-id="1" tvg-logo="https://i.imgur.com/KsnPdMJ.jpg" group-title=“MOVIE MK”,IMC INDI
+#EXTINF:0 tvg-id="1" tvg-logo="https://i.imgur.com/KsnPdMJ.jpg" group-title="MOVIE MK",IMC INDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://i.imgur.com/BHBaRz9.jpg" group-title=“MOVIE MK”,BIOSKOP INDONESIA INDI
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.imgur.com/BHBaRz9.jpg" group-title="MOVIE MK",BIOSKOP INDONESIA INDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1531,20 +1531,20 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Bioskopindo.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/s6fqwhJ.jpg",CITRA BIOSKOP
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/s6fqwhJ.jpg",CITRA BIOSKOP
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJMSTLm.jpg" group-title=“MOVIE MK”,CHINESE DRAMA INDI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aJMSTLm.jpg" group-title="MOVIE MK",CHINESE DRAMA INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-ChineseDrama.m3u8
 #https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6g8AyI.jpg" group-title=“MOVIE MK”,FLIK INDI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6g8AyI.jpg" group-title="MOVIE MK",FLIK INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Flik.m3u8
@@ -1552,7 +1552,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bbvy5XO.jpg" group-title=“MOVIE MK”,MAXSTREAM INDI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbvy5XO.jpg" group-title="MOVIE MK",MAXSTREAM INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MaxStream.m3u8
@@ -1561,22 +1561,22 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8WFZYKd.jpg" group-title=“MOVIE MK”, ORIGINALS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8WFZYKd.jpg" group-title="MOVIE MK", ORIGINALS
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
-#EXTINF:-1  group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/hYWVHqM.jpg",SONY MAX 
+#EXTINF:-1  group-title="MOVIE MK" tvg-logo="https://i.imgur.com/hYWVHqM.jpg",SONY MAX 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
   
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/wI0q49n.jpg", SONY PIX HD
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/wI0q49n.jpg", SONY PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
   
-#EXTINF:-1 group-title=“MOVIE MK”  tvg-logo="https://i.imgur.com/GMlfKvs.jpg",SONY MOVIES
+#EXTINF:-1 group-title="MOVIE MK"  tvg-logo="https://i.imgur.com/GMlfKvs.jpg",SONY MOVIES
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
 
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/8rrCBs4.jpg",BOLLYWOOD HD 
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/8rrCBs4.jpg",BOLLYWOOD HD 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -1584,155 +1584,155 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/1Mdvb8z.jpg" group-title=“MOVIE MK”,DUNIA SINEMA 
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/1Mdvb8z.jpg" group-title="MOVIE MK",DUNIA SINEMA 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/1cYmvrh.jpg" group-title=“MOVIE MK”,GALAXY INDI
+#EXTINF:0 tvg-logo="https://i.imgur.com/1cYmvrh.jpg" group-title="MOVIE MK",GALAXY INDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/9GFWFGn.jpg" group-title=“MOVIE MK”,GALAXY PREMIUM INDI
+#EXTINF:0 tvg-logo="https://i.imgur.com/9GFWFGn.jpg" group-title="MOVIE MK",GALAXY PREMIUM INDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
-#EXTINF:-1 tvg-id="110" tvg-logo="https://i.imgur.com/YhwcFgB.jpg" group-title=“MOVIE MK”, CELESTIAL CLASSIC MOVIES
+#EXTINF:-1 tvg-id="110" tvg-logo="https://i.imgur.com/YhwcFgB.jpg" group-title="MOVIE MK", CELESTIAL CLASSIC MOVIES
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/qOxVVNt.jpg" group-title=“MOVIE MK”, CELESTIAL MOVIES HD
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/qOxVVNt.jpg" group-title="MOVIE MK", CELESTIAL MOVIES HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/QYH4Zn4.jpg" group-title=“MOVIE MK”,MY CINEMA HD
+#EXTINF:-1 tvg-id="8" tvg-logo="https://i.imgur.com/QYH4Zn4.jpg" group-title="MOVIE MK",MY CINEMA HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/cbc3QeG.jpg" group-title=“MOVIE MK”,MY CINEMA ASIA
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/cbc3QeG.jpg" group-title="MOVIE MK",MY CINEMA ASIA
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/b6mw6N2.jpg" group-title=“MOVIE MK”,MY FAMILY CHANNEL
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/b6mw6N2.jpg" group-title="MOVIE MK",MY FAMILY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/vcLfYP4.jpg" group-title=“MOVIE MK”, MY CINEMA EUROPE HD
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/vcLfYP4.jpg" group-title="MOVIE MK", MY CINEMA EUROPE HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/ynGhBMs.jpg" group-title=“MOVIE MK”,CINEMA WORLD
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/ynGhBMs.jpg" group-title="MOVIE MK",CINEMA WORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/sRuKd2y.jpg" group-title=“MOVIE MK”,ROCK ACTION
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/sRuKd2y.jpg" group-title="MOVIE MK",ROCK ACTION
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockaction/sa_dash/Rockaction.mpd
 
-#EXTINF:-1 tvg-id="14" tvg-id="39" tvg-logo="https://i.imgur.com/IPmQ0kh.jpg" group-title=“MOVIE MK”, ROCK ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="14" tvg-id="39" tvg-logo="https://i.imgur.com/IPmQ0kh.jpg" group-title="MOVIE MK", ROCK ENTERTAINMENT HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/dG6ZFn7.jpg" group-title=“MOVIE MK”,CINEMACHI HD
+#EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/dG6ZFn7.jpg" group-title="MOVIE MK",CINEMACHI HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/csHJrVX.jpg" group-title=“MOVIE MK”,CINEMACHI ACTION HD
+#EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/csHJrVX.jpg" group-title="MOVIE MK",CINEMACHI ACTION HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/kuuZoXr.jpg" group-title=“MOVIE MK”,CINEMACHI MAX HD
+#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/kuuZoXr.jpg" group-title="MOVIE MK",CINEMACHI MAX HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
 
-#EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/6EY8BI1.jpg" group-title=“MOVIE MK”,CINEMACHI XTRA HD
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/6EY8BI1.jpg" group-title="MOVIE MK",CINEMACHI XTRA HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/MoiBnRC.jpg" group-title=“MOVIE MK”,CINEMACHI KIDS HD
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/MoiBnRC.jpg" group-title="MOVIE MK",CINEMACHI KIDS HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFJDWGU.jpg" group-title=“MOVIE MK”,HITS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFJDWGU.jpg" group-title="MOVIE MK",HITS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
 https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vL5FZ1D.jpg" group-title=“MOVIE MK”,HITS MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vL5FZ1D.jpg" group-title="MOVIE MK",HITS MOVIES
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
-#EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/IJBO9Ww.jpg" group-title=“MOVIE MK”, THRILL
+#EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/IJBO9Ww.jpg" group-title="MOVIE MK", THRILL
 #EXTVLCOPT:http-user-agent=iTunes-AppleTV/5.0.2 (3; dt:12)
 https://op-group1-swiftservesd-1.dens.tv/s/s34/02.m3u8|Referer=https://www.dens.tv/
 
-#EXTINF:-1 tvg-id="23" tvg-logo="https://i.imgur.com/AvexsPf.jpg" group-title=“MOVIE MK”,FMN {TELENOVELA)
+#EXTINF:-1 tvg-id="23" tvg-logo="https://i.imgur.com/AvexsPf.jpg" group-title="MOVIE MK",FMN {TELENOVELA)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/FMN/sa_dash/FMN.mpd
 
-#EXTINF:-1 tvg-id="25" tvg-logo="https://i.imgur.com/nPfKZYb.jpg" group-title=“MOVIE MK”,KIX HD
+#EXTINF:-1 tvg-id="25" tvg-logo="https://i.imgur.com/nPfKZYb.jpg" group-title="MOVIE MK",KIX HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
-#EXTINF:-1 tvg-id="26" tvg-logo="https://i.imgur.com/5IsUVPF.jpg" group-title=“MOVIE MK”,TVN MOVIES
+#EXTINF:-1 tvg-id="26" tvg-logo="https://i.imgur.com/5IsUVPF.jpg" group-title="MOVIE MK",TVN MOVIES
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd  
   
-#EXTINF:-1 tvg-id="" tvg-name="TVN HD" tvg-logo="https://i.imgur.com/A2dlgXu.jpg" group-title=“MOVIE MK”,TVN HD
+#EXTINF:-1 tvg-id="" tvg-name="TVN HD" tvg-logo="https://i.imgur.com/A2dlgXu.jpg" group-title="MOVIE MK",TVN HD
 EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-logo="https://i.imgur.com/sgao7lL.jpg" group-title=“MOVIE MK”,ONE HD
+#EXTINF:-1 tvg-id="28" tvg-logo="https://i.imgur.com/sgao7lL.jpg" group-title="MOVIE MK",ONE HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
   
-#EXTINF:-1 tvg-id="27" tvg-logo="https://i.imgur.com/FpWCqAJ.jpg" group-title=“MOVIE MK”,K+ HD
+#EXTINF:-1 tvg-id="27" tvg-logo="https://i.imgur.com/FpWCqAJ.jpg" group-title="MOVIE MK",K+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
   
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/vFLdqEN.jpg",KPLUS-INDI
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/vFLdqEN.jpg",KPLUS-INDI
 #https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
 
-#EXTINF:-1 tvg-id="29" tvg-logo="https://i.imgur.com/YCa5RqW.jpg" group-title=“MOVIE MK”,DRAGON TV
+#EXTINF:-1 tvg-id="29" tvg-logo="https://i.imgur.com/YCa5RqW.jpg" group-title="MOVIE MK",DRAGON TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
 https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
   
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/4Pjb4FA.jpg" group-title=“MOVIE MK” tvg-id="" , Studio Universal INDI
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/4Pjb4FA.jpg" group-title="MOVIE MK" tvg-id="" , Studio Universal INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -1740,20 +1740,20 @@ https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
   
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/2Q7zuiG.jpg",TECHSTORM
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/2Q7zuiG.jpg",TECHSTORM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd  
   
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/EQBmCAH.jpg",ZEE BIOSKOP-INDI
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/EQBmCAH.jpg",ZEE BIOSKOP-INDI
 https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd 
 
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/KuHyRYw.jpg",ZEE BIOSKOP
+#EXTINF:-1 group-title="MOVIE MK" tvg-logo="https://i.imgur.com/KuHyRYw.jpg",ZEE BIOSKOP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
   
-#EXTINF:-1 group-title=“MOVIE MK”  tvg-logo="https://i.imgur.com/Ctnxbxd.jpg",ZEE CINEMA
+#EXTINF:-1 group-title="MOVIE MK"  tvg-logo="https://i.imgur.com/Ctnxbxd.jpg",ZEE CINEMA
 http://opplex.tv:8080/live/mother/mother/206271.ts  
 
 
