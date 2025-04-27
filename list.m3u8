@@ -1471,9 +1471,6 @@ http://filex.tv:8080/Home329/Sohailhome/302264
   
   
   
-#EXTINF:-1 group-title=“MOVIE MK” tvg-logo="https://i.imgur.com/pK67EmR.png",1.INFO-GABUNG GROUP
-https://dl.dropboxusercontent.com/scl/fi/loibzh31apysr3gtv0qm3/Gabung-GroupTele.mp4?rlkey=vfezlgwrcrz4oyv4puvtf5i0u&st=wkpofibh&dl=0  
-  
   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1766,8 +1763,6 @@ http://opplex.tv:8080/live/mother/mother/206271.ts
 ##### 📺HBO CHANNEL #####
   
 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://i.imgur.com/pK67EmR.png",1.INFO-GABUNG GROUP
-https://dl.dropboxusercontent.com/scl/fi/loibzh31apysr3gtv0qm3/Gabung-GroupTele.mp4?rlkey=vfezlgwrcrz4oyv4puvtf5i0u&st=wkpofibh&dl=0   
   
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://i.imgur.com/Ce1gqbq.jpg", HBO-DT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
