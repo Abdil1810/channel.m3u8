@@ -76,6 +76,10 @@ https://drive.google.com/uc?id=1p2_58NY-tTMruKLyb03nUV_iDT9E1oA-&export=download
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RCTI"tvg-logo="https://iili.io/JMp36xI.png" group-title="Nasional Lokal MK", RCTI+
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="Nasional Lokal MK",RCTI HD
 http://opplex.tv:8080/live/mother/mother/351023.ts
 
