@@ -1,6 +1,38 @@
 #EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://drive.usercontent.google.com/download?id=16fb0F7StSTF767sgM0jtdXSzuh-apEtM&export=download&authuser=1&confirm=t&uuid=9edc58b2-8dbe-4b61-a090-f4ec99925955&at=APcmpox5aAYT9qGSWXmvlcljMWvw:1745172999640" group-title="UPDATE",AMBIL LINK DI PROFIL ADMIN UNTUK UPDATE TERBARU 
 https://drive.usercontent.google.com/download?id=1R33vl7tdi0r7pEo55CTdj_E6VVeJ2l0G&export=download&authuser=3&confirm=t&uuid=d8ceef79-3cdd-40d0-9e8e-b3959c339550&at=APcmpow-M8v38HRTvqLIMogeuSUR:1745317268547
 
+#EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/soccerch.png" group-title="🏆Sports Trial Bos Ya",Soccer
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstars.png" group-title="🏆Sports Trial Bos Ya",SPORTSTARS 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|referer=https://www.visionplus.id/
+
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstar2.png" group-title="🏆Sports Trial Bos Ya", Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://terabit.web.id/media.mpd?id=113&type=dash
+
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstar3.png" group-title="🏆Sports Trial Bos Ya", Sportstars 3 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://terabit.web.id/media.mpd?id=114&type=dash
+
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstars4.png" group-title="🏆Sports Trial Bos Ya", SPORTSTARS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 
