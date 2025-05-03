@@ -56,9 +56,13 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTI"tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="🇮🇩 Nasional Lokal MK", RCTI+
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
-
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="🇮🇩 Nasional Lokal MK",RCTI HD
 http://opplex.tv:8080/live/mother/mother/351023.ts
+
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="🇮🇩 Nasional Lokal MK",RCTI (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="🇮🇩 Nasional Lokal MK",GTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
