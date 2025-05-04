@@ -717,51 +717,26 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=5
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
+
+#################################------------------------------- optus -------------------------------###################
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="Optus Trial", OPTUS SPORT 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="Optus Trial", OPTUS SPORT 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="Optus Trial", OPTUS SPORT 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="Optus Trial", OPTUS SPORT 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="Optus Trial", OPTUS SPORT 5
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
 
-
-#################################------------------------------- optus -------------------------------###################
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="Optus Trial", OPTUS SPORT 6
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="Optus Trial", OPTUS SPORT 7
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
@@ -771,14 +746,30 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="Optus Trial", OPTUS SPORT 9
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="Optus Trial", OPTUS SPORT 10
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="Optus Trial", OPTUS SPORT 11
 
+#EXTINF:-1 group-title="Optus Trial" tvg-logo="https://i.imgur.com/pi8ipf6.png", ELEVEN SPORTS 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
 
+#EXTINF:-1 group-title="Optus Trial" tvg-logo="https://i.imgur.com/dJpSG5v.png", ELEVEN SPORTS 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%202.m3u8
 
+#EXTINF:-1 group-title="Optus Trial" tvg-logo="https://i.imgur.com/0yyPvbr.png", ELEVEN SPORTS 3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
+
+#EXTINF:-1 group-title="Optus Trial" tvg-logo="https://i.imgur.com/N4JqWOO.png", DIGI SPORT 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%201.m3u8
+
+#EXTINF:-1 group-title="Optus Trial" tvg-logo="https://i.imgur.com/xhwYAj2.png", DIGI SPORT 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%202.m3u8
+
+#EXTINF:-1 group-title="Optus Trial" tvg-logo="https://i.imgur.com/mIY63ZL.png", DIGI SPORT 3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%203.m3u8
+
+#EXTINF:-1 group-title="Optus Trial" tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
 
 
 
