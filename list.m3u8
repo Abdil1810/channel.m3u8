@@ -110,7 +110,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png" group-title="🇮🇩 Nasional Lokal MK",Indosiar [vip]
+#EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="🇮🇩 Nasional Lokal MK",Indosiar [vip]
 http://opplex.tv:8080/live/mother/mother/350972.ts
 
 
