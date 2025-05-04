@@ -771,6 +771,22 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%2
 #EXTINF:-1 group-title="Optus Trial" tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
 
+ #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Optus Trial",Star Sports 1 HD (1)
+http://watchindia.net:8880/live/32612/55103/2232.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Optus Trial",Star Sports 1 HD (2)
+http://watchindia.net:8880/live/32612/55103/2456.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (3)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Optus Trial",Star Sports 1 HD (3)
+http://watchindia.net:8880/live/32612/55103/2678.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sports 1 HD (Hindi)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Optus Trial",Star Sports 1 HD (Hindi)
+http://watchindia.net:8880/live/32612/55103/2673.ts
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Star Sports 2 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Optus Trial",Star Sports 2 HD (1)
+http://watchindia.net:8880/live/32612/55103/1069.ts
+#EXTINF:-1 tvg-id="starsports2.in" tvg-name="Star Sports 2 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Optus Trial",Star Sports 2 HD (2)
+http://watchindia.net:8880/live/32612/55103/2163.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Optus Trial",Star Sports Select 1 HD
+http://watchindia.net:8880/live/32612/55103/1070.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="Optus Trial",Star Sports Select 2 HD
+http://watchindia.net:8880/live/32612/55103/1071.ts
 
 
 ###################################################################--------------------------------------------- SPORTS PREMIUM MK ----------------------------------------------------------------------------------#########################################################
