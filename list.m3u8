@@ -43,9 +43,6 @@ https://drive.usercontent.google.com/download?id=1byBk2ASPuNdOeKjBshf04M2gN1gc1i
 
 
 
-#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMCxzToJO-ClJ_1xcaKbO5Spfd5hKA_WC3Q&s" group-title="MNC Group", MNC Group sering gangguan dari server nya harap maklum masih di carikan link yang stabil 
-https://cdn.pixabay.com/video/2020/05/22/39815-423345564_large.mp4
-
 
 
 
@@ -800,20 +797,13 @@ https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstars.png" group-title="🇮🇩 Sport ViP MK",Sportstars
-https://terabit.web.id/media.mpd?id=112&type=dash
+https://cdn.pixabay.com/video/2022/05/25/118091-713900122_large.mp4
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstar2.png" group-title="🇮🇩 Sport ViP MK", Sportstars 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://terabit.web.id/media.mpd?id=113&type=dash
-
+https://cdn.pixabay.com/video/2022/05/25/118091-713900122_large.mp4
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstar3.png" group-title="🇮🇩 Sport ViP MK", Sportstars 3 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://terabit.web.id/media.mpd?id=114&type=dash
+https://cdn.pixabay.com/video/2022/05/25/118091-713900122_large.mp4
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png"group-title="🇮🇩 Sport ViP MK",SPOTV 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1312,19 +1302,13 @@ https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=115
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstars.png" group-title="SPORTS",Sportstars
-https://terabit.web.id/media.mpd?id=112&type=dash
+https://cdn.pixabay.com/video/2022/05/25/118091-713900122_large.mp4
  
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstar2.png" group-title="SPORTS",Sportstars 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://terabit.web.id/media.mpd?id=113&type=dash
+https://cdn.pixabay.com/video/2022/05/25/118091-713900122_large.mp4
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sportstar3.png",Sportstars 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://terabit.web.id/media.mpd?id=114&type=dash
+https://cdn.pixabay.com/video/2022/05/25/118091-713900122_large.mp4
  
 #EXTINF:0 tvg-id="SS4" tvg-logo="https://png.pngtree.com/png-vector/20220204/ourlarge/pngtree-access-denied-vintage-metallic-sign-panel-no-fashioned-vector-png-image_23618244.png" group-title="SPORTS",Sportstars 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
