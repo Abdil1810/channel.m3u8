@@ -1,21 +1,3 @@
-========feed========
-
-#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="LIVE EVENTS",event only 1
-https://bf.jabflive.cc/live/322708_hd01.m3u8?txSecret=0611e7bf99276d6d4881962d442bfea6&txTime=68187c24
-
-#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="LIVE EVENTS",event only 2
-#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://play.926003.tv/
-#EXTVLCOPT:http-origin=https://play.926003.tv
-https://pl10.chinefore.com/live/393beb7654c5bf5f.m3u8?txSecret=618f5f09b7354a74727b463373dfc406&txTime=68187475
-
-        -----livesport---
-
-#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="LIVE EVENTS",event only 3
-#EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
-https://tnt1-cf.boblcfwudz421.com/auth%3Dddfc4e7d3955c805cf3190a0afa59416981d88add9bc413a62e6b800b000918a85a9042915a37e335932d22bf687133d924660b760e2593c16ceb663694dcc2be0c591077891dff03fac0206cd157b12e635fbd86d8f92460255c20c8b8618cb52cda289353735b8c969f3da47993cee59f7e34fb468ece7e409768a81a32607034f4ce334d748748a089efbcbde77fb62141f952ba8af7ee39df75c199c9d445d0ba3df848c3a513f16068acd44742d70b9f651cc3f2a6dc96ddc86b179a1d3%26cid%3D9r1dRiRtp-L0JBjKV7pxy250418%26_v%3D2%26_r%3DvzwjdP%26_vis%3D4dd584ae2cc787ca79a48aa990cc6cd49313bc5f5e7813f52642a8c18b226c8e%26_vvs%3Dd43261575d6fb0b48de9061805fb65f8a2013f82fd5c20a14107f2e810a3eada/transcode/c347536_480p.m3u8
 
 
 
