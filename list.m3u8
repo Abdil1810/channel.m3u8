@@ -2152,27 +2152,24 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="🇮🇩 Sport ViP MK",ESPN 1
 #http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
+
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="🇮🇩 Sport ViP MK",ESPN 2
-http://supersonictv.live:8080/775562/877735/22198 
+http://supersonictv.live:8080/775562/877735/22198
+
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="🇮🇩 Sport ViP MK",ESPN 3
 http://supersonictv.live:8080/775562/877735/22199
-            
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="🇮🇩 Sport ViP MK",ESPN 4
+ 
+                       
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="🇮🇩 Sport ViP MK",ESPN Deporties
 http://supersonictv.live:8080/775562/877735/22222
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="🇮🇩 Sport ViP MK",ESPN Network
+http://supersonictv.live:8080/775562/877735/22208
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="🇮🇩 Sport ViP MK",ESPN 5
 http://supersonictv.live:8080/775562/877735/22202
-
-  
-  
-
-
-
-
-
-
-
 
 ##################-------------DAZN-----------##################
 
