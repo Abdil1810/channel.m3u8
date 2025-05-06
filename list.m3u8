@@ -1700,6 +1700,8 @@ http://watchindia.net:8880/live/32612/55103/1070.ts
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="Optus Trial",Star Sports Select 2 HD
 http://watchindia.net:8880/live/32612/55103/1071.ts
 
+#EXTINF:-1 group-title="Optus Trial" tvg-logo="https://i.imgur.com/uW8jAsQ.png", MOVISTAR LIGA DE CAMPEONES
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MOVISTAR%20LIGA%20DE%20CAMPEONES.m3u8
 
 ###################################################################--------------------------------------------- SPORTS PREMIUM MK ----------------------------------------------------------------------------------#########################################################
 
