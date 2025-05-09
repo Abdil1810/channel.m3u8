@@ -63,19 +63,6 @@ https://scontent.fbdj4-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQMNL_GOYe8N3Z2qw_ELG-CBxG
 #EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIVpSj-ph5iD57Gdpcs2mDyOr-FP2j139EbbDG7YYInm0u5FRXunXHcE&s=10" group-title="Live Stream⚽⚽⚽",Sepak Bola Siaran Langsun ⚽⚽
 https://cdn.pixabay.com/video/2021/06/29/79584-570048615_large.mp4
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
 
