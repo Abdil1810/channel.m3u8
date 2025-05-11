@@ -16,6 +16,12 @@ https://fhlsport121.fhs36f7.xyz/token-Jkd5neOTfKKG7TYuwfY6nzqGlMCH1y3jZCD7kPdIED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://turunminum.id/wp-content/uploads/2023/12/liverpool_vs_arsenal_logo_cba23864b3.jpeg" group-title="👑Premium Live Strem",Liverpool vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 
 
