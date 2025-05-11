@@ -8,6 +8,14 @@ https://cdn.pixabay.com/video/2021/06/29/79584-570048615_large.mp4
 https://fhlsport121.fhs36f7.xyz/token-Jkd5neOTfKKG7TYuwfY6nzqGlMCH1y3jZCD7kPdIEDT0s%2BHKHUFdDowkqhBPWE5JBCeIwzBhlvZ0a/cfall/s2001/v3b/3nprn32nnUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_601454.m3u8
 
 
+#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/20/2015/11/el-clasico_112ff4d.jpg" group-title="👑Premium Live Strem",join Grup Agar bisa Akses Stream Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 
 
 
