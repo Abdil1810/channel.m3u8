@@ -332,7 +332,10 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 
+#EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://stream.staratv.id/logo/external",STARA TV 
+https://stream.staratv.id/hls/stream.m3u8
 
+###############################FIRST MEDIA##########
 
 
 #EXTINF:-1 group-title="🇮🇩FIRST MEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/Jakarta_globe_news_channel_id.png/640px-Jakarta_globe_news_channel_id.png",Jakarta GlobeNews Channel
