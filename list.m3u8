@@ -4,6 +4,34 @@
 
 
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title=⚽Football Club", SPORTV 1
+http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title=⚽Football Club", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/dazn1.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title=⚽Football Club", DAZN 3
+http://goldv3.me:2082/live/drmtv43_476893/YFCPfQ3M/250343.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title=⚽Football Club", TRT SPOR
+http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title=⚽Football Club", NOVA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/novasport3.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title=⚽Football Club", TABII SPOR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii1.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title=⚽Football Club", TABII SPOR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii2.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title=⚽Football Club", TABII SPOR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii3.m3u8
 
 
 
