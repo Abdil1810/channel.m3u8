@@ -2350,6 +2350,85 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1533.ts
 
  
 
+########--------------HBO GROUP  ---------#######
+
+
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="HBO Group",HBO 🔴
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBOHits1" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="HBO Group",HBO Hits 🔴
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBOFamily1" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="HBO Group",HBO Family 🔴
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBOSignature1" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="HBO Group",HBO Signature 🔴
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="HBO Group",Cinemax 🔴
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png", HBO PH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO Hits PH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png", HBO Family PH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature PH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#EXTINF:-1 group-title="HBO Group" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax PH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+
+
 
 ################----- TV Sunnah -----###############
 
@@ -2419,367 +2498,3 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b3/Rodja_TV.png/250px-Rodja_TV.png" group-title="TV SUNNAH" resolution="1280@720",RODJA TV
 https://rodjatv.com/rodjatv/live.m3u8
------------------------------------------------------------------------cctv Banjarmasin--------------------------------------------------
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Halaman Jembatan Pulau Bromo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJkKJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam52/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Halaman Jembatan Pulau Bromo 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam51/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Samping Tugu 0 KM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam50/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Tugu 0km
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam49/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Simpang 3 Tunggu 0km
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam48/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Siring 0km Panggung
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam47/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Siring 0km 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam46/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Siring 0km
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam45/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Depan Menara Pandang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam44/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Siring Rumah Anno
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam43/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Pintu Masuk Menara Pandang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam42/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Menara Pandang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam41/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Siring Pos Dermaga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam40/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Siring Dermaga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam39/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Taman Kelayan 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam38/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Taman Kelayan 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam37/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Taman Kelayan 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam36/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Taman Kelayan 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam35/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", TPS Kuripan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam34/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", TPS Kuripan kanan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam33/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", TPS Kuripan kiri
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam32/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Jembatan Patih Masih 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam31/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Jembatan Patih Masih 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam30/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Jembatan Patih Masih 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam29/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Jembatan Patih Masih 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam28/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Wisata Kuliner Kampung Arab 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam27/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Wisata Kuliner Kampung Arab 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam26/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Wisata Kuliner Kampung Arab 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam25/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Apung Siring 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam24/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Apung Siring 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam23/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Apung Siring 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam22/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Apung Siring 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam21/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Patung Bekantan 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam20/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Patung Bekantan 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam19/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Patung Bekantan 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam18/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Kamboja 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam7/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Kamboja 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam6/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Kamboja 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam5/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg"group-title="CCTV BANJARMASIN", Kamboja 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-#EXTVLCOPT:http-cookie=_csrf=UeFxJKkJHNoKfGOAXhnUXGfd
-https://cctv.banjarmasinkota.go.id/stream/cam4/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Pasar Lama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/fXK2sJj4U1/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Gerilya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/DHizjVIP0W/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang RK Ilir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/qjtWqXluHE/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Mulawarman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/gHaVkDVK0b/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Veteran
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/iyYLs1kYnR/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Fly Over
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/BPXG9A4gnu/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Jafri Zam Zam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/h6Vo2yINJt/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Kamboja
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/xqfJauxCgF/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Jembatan Alalak Arah Luar Kota
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/j8yfsrNy6R/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Cemara Hasan Basri
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/tXFAUNbubr/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Jalan SParman U Turn ( Arah Luar Kota )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/8F8YRvv1Pq/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Jalan SParman U Turn ( Arah Dalam Kota )
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/9itxvauoOi/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Belitung
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/PNojYeBKDv/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Jembatan Sungai Andai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/fw7KmrXWl9/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Sultan Adam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/dUASq5ZjHs/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Tarakan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/THUF5wQFs2/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Antasari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/92XUhaBa1x/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang A Yani Antasari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/IbQA7j9D3k/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang A Yani Kuripan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/Ep6CgYqoCN/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Kol Sugiono
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/xKRCOz839a/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang A Yani KM 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/9Bq9yM4MRL/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Jalan A Yani U Turn KM 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/dUi1Zgl86v/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Jalan A Yani KM 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/2rIO8K38EP/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Merdeka Mesjid Raya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/xPULo6ZIMd/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang 4 Mentari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
-https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/gghZcG0PrO/s.m3u8
-
-
