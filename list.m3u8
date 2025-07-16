@@ -6,54 +6,6 @@ https://cdn.pixabay.com/video/2022/05/17/117319-711467274_large.mp4
 
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title="⚽Football Club", SPORTV 1
-http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title="⚽Football Club", DAZN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/dazn1.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title="⚽Football Club", DAZN 3
-http://goldv3.me:2082/live/drmtv43_476893/YFCPfQ3M/250343.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title="⚽Football Club", TRT SPOR
-http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title="⚽Football Club", NOVA SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/novasport3.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title="⚽Football Club", TABII SPOR 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii1.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title="⚽Football Club", TABII SPOR 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii2.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp7HM9twXbUYhclqji4n_sEhRwocdI_bjkGxXCutnLmlkTmgdzvc5zg8&s=10" group-title="⚽Football Club", TABII SPOR 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii3.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQV4wSn-OWbWHekQuODZjueDjnSHsC2q-Tyl8xTWEGh3R76jEnRBir_Mzx&s=10" group-title="DONATUR Juni 2025",donate via DANA 0859-2289-2518 / BCA (M. Khaidir Abdillah) 789-580-1607
 https://scontent.fbdj5-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQNrBhuIDa_onlHh6h9vYbdUdsWz25Z2rp_S3ZWUQxu10gY4Vk5JqEk7OTSpHXZdNaTSeCucQ6MsvWaDk0kF3gBD.mp4?strext=1&_nc_cat=110&_nc_oc=AdlxleugiAG2pbbdqfniGZhl10-JIYleSBMFDQGoA9dBAlS1qfqkEzK_3S213bx_CHM&_nc_sid=5e9851&_nc_ht=scontent.fbdj5-1.fna.fbcdn.net&_nc_ohc=0J8g6b38XEAQ7kNvwEcnvC9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzNlLjEyODAuZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcCIsInhwdl9hc3NldF9pZCI6MTE5NzAwOTM0MjEyMDcwNywidmlfdXNlY2FzZV9pZCI6MTAxMjMsImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=cad23b9350cb1dfe&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT3pFaGgwZUpxTnp4R3NDQUZqbVR0SWwybmgyYm1kakFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSThYVEIwQ1hWeDdIdGdEQUFSUDFQelIwYWtPYnJGcUFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmhoyKyo6roAQVAigDQzNlLBdANZmZmZmZmhgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQJllp4BAA&_nc_zt=28&_nc_eui2=AeFf7nhv_IOCH0CB-_OuX_b0PvYj2jRU7K0-9iPaNFTsre-Ohz6a46m2IlVUpSHpGiS0MmhKvZqAn1nR59heWaH5&oh=00_AfMI5eMFSNoJ_ep9R-sjIImVzYXYWbSST1_P9rC_qTWNKw&oe=686C662C
