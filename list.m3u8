@@ -37,7 +37,6 @@ https://cdn.pixabay.com/video/2022/05/17/117319-711467274_large.mp4
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI"tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="🇮🇩 Nasional Lokal MK", RCTI+
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
