@@ -1,3 +1,13 @@
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/thkSlyRRXaZWZ5IIeCUwrSFY8x0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4713716/fb948e.jpg" group-title="🔴TIMNAS DAY", Indonesia vs Mali - International Friendly Match Timnas U-23
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc5895799dc521e5d61ccedd4d4f1ebb:b5ecf7d95b70fbff640bf2124a63f2f3
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19679/file/drm/dash/stream.mpd?hdntl=exp=1763223390~acl=%2fstream%2f19679%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=193459917~data=hdntl~hmac=05d101d4e6e70e670f7d0220613faa450ade49c30b151d1b144a0605471f6ed5
+
+
+
+
 #EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMES_MSSZ_KfvG5orWfSFJ1cYYpZyOr0IoJil0mIijRNLu2p8yh4wDF3or&s=10" group-title="Channel Yang berbayar", mohon maaf gak bisa update channel free lagi
 https://cdn.pixabay.com/video/2022/05/17/117319-711467274_large.mp4
 
