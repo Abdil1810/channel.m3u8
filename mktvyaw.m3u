@@ -5,17 +5,7 @@ https://www.shutterstock.com/shutterstock/videos/3931822385/preview/stock-footag
 
 
 
-#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcGqENIZcD6CDqZDPNoXmw3-xi2ufKOP1yg&usqp=CAU",Banjar Tv Bungas
-https://banjartv.siar.us/banjartv/live/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcGqENIZcD6CDqZDPNoXmw3-xi2ufKOP1yg&usqp=CAU",Duta TV
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
-
-
+  ==========PLAYLIST IPTV PRO BY ZACK===========
 
 
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
@@ -43,28 +33,37 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 
 
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLlsooVB274zIGMEQ1kquZCBAK4cnLgnF0d3oRiJV4yM2pTDH8WeKDVE&s=10", iNews 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
 
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGGEPkFbOq2zNIQS4Imeq4avBxklOVTmQ5p8n3-9o3D-GdIMAwZ_HkeZz&s=10", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+
 
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s", INDOSIAR 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="🔴NASIONAL",VTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Uj3cD2zvKeJV4bBN4Z7SepFf9a58Au2xDNPBsWi4Shi66Kn20X7wVxo&s=10" group-title="🔴NASIONAL" ,SINPO TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
+#EXTVLCOPT:http-referrer=https://www.indihometv.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiWv-pfeDr-OZkVvMbwEcryrWApBmLYMZQy6rUefZWQQxB1oOVnzR6WX3&s=10", ANTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -111,7 +110,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=li
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEpKvlHZcwAFE34gPBhZVN0fJuORa_WCheTC_LGH0-6D8itD-rSOA3cw&s=10" group-title="🔴NASIONAL",CNN INDONESIA
-https://master.drmstuff.my.id:443/play/Nde5DS_M4vXJWfkBUZU97cu7NFz523e7RPu2QHmf7d4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+
 
 #EXTINF:-1 tvg-id="SindoNews.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9hUX2bmyvD65GKfn-HlVHS94KbohkNVGj0mhDGc0PZvsYJwqedGmGxo&s=10" group-title="🔴NASIONAL", Sindo News
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
@@ -138,13 +142,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 https://wahyu1ptv.pages.dev/MetroTV-HD.m3u8
 
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOOXHzTEMbDw1YdQG5v5Gp5AU-Z9GuVV8eA&s", BTV 
-https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 
-#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png", Mentari TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jif4JE0YKBalqIZIXWRyOHaqKZDdHa4czg&s" group-title="🔴NASIONAL",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
