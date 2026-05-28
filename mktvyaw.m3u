@@ -5,8 +5,14 @@ https://www.shutterstock.com/shutterstock/videos/3931822385/preview/stock-footag
 
 
 
-  ==========PLAYLIST IPTV PRO BY ZACK===========
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcGqENIZcD6CDqZDPNoXmw3-xi2ufKOP1yg&usqp=CAU",Banjar Tv Bungas
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
+
+
+ 
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcGqENIZcD6CDqZDPNoXmw3-xi2ufKOP1yg&usqp=CAU",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
