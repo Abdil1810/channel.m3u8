@@ -1,4 +1,42 @@
+#EXTM3U
 
+#EXTINF:-1 group-title="Donasi Dana atau BCA" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518 | BCA 7895801607
+https://drive.google.com/uc?export=download&id=1RRLahXjU80ElFmJl0hvXJ5UWfGYKoPnq
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+#EXTVLCOPT:network-caching=1000
+http://akariko.netgenx.site/stream/jp/NHK_BS/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="M LIVE" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 tvg-id="M LIVE 2" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 tvg-name="CAZÉ TV 1 HD" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+http://akariko.netgenx.site/stream/jp/NHK_G/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+http://74.91.26.218:82/live/cctv5hd.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+http://74.91.26.218:82/live/cctv5p.m3u8
 
 
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcGqENIZcD6CDqZDPNoXmw3-xi2ufKOP1yg&usqp=CAU",Banjar Tv Bungas
