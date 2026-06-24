@@ -9,37 +9,119 @@ https://drive.google.com/uc?export=download&id=1NOabTUZjK3VVDwFb9m0cnPJHGS81RBmN
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
 #EXTVLCOPT:network-caching=1000
 http://akariko.netgenx.site/stream/jp/NHK_BS/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Fs 1 fhd
+http://myxpanel.pro/live/13579/13579/838116.ts
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Fs 2 fhd
+http://myxpanel.pro/live/13579/13579/838115.ts
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Dazn Mundial 1 fhd
+http://myxpanel.pro/live/13579/13579/838108.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Dazn Mundial 2 fhd
+http://myxpanel.pro/live/13579/13579/838106.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Tsn 1 fhd
+http://myxpanel.pro/live/13579/13579/838103.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Tsn 2 fhd
+http://myxpanel.pro/live/13579/13579/838102.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Bein max 1 fhd
+http://myxpanel.pro/live/13579/13579/838075.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Bein max 2 fhd
+http://myxpanel.pro/live/13579/13579/838074.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Bein max 3 fhd
+http://myxpanel.pro/live/13579/13579/838073.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Bein max 4 fhd
+http://myxpanel.pro/live/13579/13579/838072.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Unite8 Sports 1 fhd
+http://opplextv.cyou:8080/live/nasir6160/nasir/444332.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Ptv Sports fhd
+http://opplextv.cyou:8080/live/nasir6160/nasir/444385.ts
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="🔴WORLD CUP 2026 UHD/FHD",Super Sport psl Central
+http://opplextv.cyou:8080/live/nasir6160/nasir/444349.ts
+
+
+#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="FIFA WORLD CUP 2026",live tanpa iklan,RTB aneka
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="FIFA WORLD CUP 2026",RTB GO
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="M LIVE" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 tvg-id="M LIVE" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",bein max 1
+http://premiumorg11.com/live/damien56/65903/461671.ts
 
-#EXTINF:-1 tvg-id="M LIVE 2" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#EXTINF:-1 tvg-id="M LIVE 2" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",bein max 2
+http://myxpanel.pro/live/13579/13579/835117.ts
 
-#EXTINF:-1 tvg-name="CAZÉ TV 1 HD" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
+#EXTINF:-1 tvg-id="M LIVE 2" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",bein max 4
+http://myxpanel.pro/live/13579/13579/835115.ts
+
+#EXTINF:-1 tvg-id="M LIVE 2" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",bein max 5
+http://myxpanel.pro/live/13579/13579/835114.ts
+
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="FIFA WORLD CUP 2026",CAZÉ TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
-http://akariko.netgenx.site/stream/jp/NHK_G/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="FIFA WORLD CUP 2026",CAZÉ TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
-http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="FIFA WORLD CUP 2026",RTBF 1
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",DONASI DANA 0859-2289-2518
-http://74.91.26.218:82/live/cctv5p.m3u8    
+
+#EXTINF:-1 tvg-id="01" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",tudn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
+https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
+
+
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png", Yes sport 1 HD
+http://vu-smart.store/live/826664665339/165418849705/557765.ts
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png", Yes sport 2 HD
+http://vu-smart.store/live/826664665339/165418849705/557766.ts
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png", somoy tv
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png", match !
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
+https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
+
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png", ptv sport
+http://premiumtvs.space/live/jen12345/Jen54321/89.ts
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png", nhk g
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=5
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.imgur.com/fO8tGoa.png",sukan rtm
+EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
 
 
 
