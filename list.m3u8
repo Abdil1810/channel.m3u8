@@ -7,6 +7,10 @@ https://media.istockphoto.com/id/1212721790/video/close-up-handshake-with-sunlig
 #EXTINF:-1 group-title="Jasa Bot WA" tvg-logo="https://i.imgur.com/RSkRtWQ.png", Capek Balesin Chat "Barang Ini Ready Ga Om?" Tiap Menit? 😮‍💨
 https://drive.google.com/uc?export=download&id=1NOabTUZjK3VVDwFb9m0cnPJHGS81RBmN
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="FIFA WORLD CUP 2026", TVRI NASIONAL (Digital)
+http://157.15.187.3:25092/hls/63/63.m3u8
+https://pildun.cob.web.id/hls2/index.m3u8
+
 #EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="FIFA WORLD CUP 2026",live tanpa iklan,RTB aneka
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
