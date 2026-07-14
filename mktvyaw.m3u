@@ -10,45 +10,6 @@ https://drive.google.com/uc?export=download&id=1NOabTUZjK3VVDwFb9m0cnPJHGS81RBmN
 #EXTVLCOPT:network-caching=1000
 http://akariko.netgenx.site/stream/jp/NHK_BS/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Fs 1 fhd
-http://myxpanel.pro/live/13579/13579/838116.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Fs 2 fhd
-http://myxpanel.pro/live/13579/13579/838115.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Dazn Mundial 1 fhd
-http://myxpanel.pro/live/13579/13579/838108.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Dazn Mundial 2 fhd
-http://myxpanel.pro/live/13579/13579/838106.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Tsn 1 fhd
-http://myxpanel.pro/live/13579/13579/838103.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Tsn 2 fhd
-http://myxpanel.pro/live/13579/13579/838102.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Bein max 1 fhd
-http://myxpanel.pro/live/13579/13579/838075.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Bein max 2 fhd
-http://myxpanel.pro/live/13579/13579/838074.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Bein max 3 fhd
-http://myxpanel.pro/live/13579/13579/838073.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Bein max 4 fhd
-http://myxpanel.pro/live/13579/13579/838072.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Unite8 Sports 1 fhd
-http://opplextv.cyou:8080/live/nasir6160/nasir/444332.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Ptv Sports fhd
-http://opplextv.cyou:8080/live/nasir6160/nasir/444385.ts
-
-#EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="WORLD CUP 2026 UHD/FHD",Super Sport psl Central
-http://opplextv.cyou:8080/live/nasir6160/nasir/444349.ts
-
 
 #EXTINF:-1 tvg--name"Brunei" tvg-logo="https://i.imgur.com/fO8tGoa.png" group-title="FIFA WORLD CUP 2026",live tanpa iklan,RTB aneka
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
