@@ -507,7 +507,8 @@ https://atcs.banjarmasinkota.go.id/stream/simpang_s_parman_tarakan/video1_stream
 
 #EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Jalan Lambung Mangkurat (Depan Bank Indonesia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/https://atcs.banjarmasinkota.go.id/stream/jalan_lambung_mangkurat_bank_bi/video1_stream.m3u8
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+https://atcs.banjarmasinkota.go.id/stream/jalan_lambung_mangkurat_bank_bi/video1_stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://indonesiakaya.com/wp-content/uploads/2023/05/Menara-Pandang-Banjarmasin-5.jpeg" group-title="CCTV BANJARMASIN", Simpang Hasan Basri - Cemara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
