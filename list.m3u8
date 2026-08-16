@@ -2,7 +2,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6TlN0M9Jv_NgZ9jU7kt3vXfmlol5-Y7XE4KUZ2JPYaN-Xc16xdzS2JA&s=10" group-title="JUST INFO UPDATE PLAYLIST",CUKUP WHATSAPP SEKALI JANGAN SPAM PLAYLIST UPDATE SAAT GAK SIBUK
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6TlN0M9Jv_NgZ9jU7kt3vXfmlol5-Y7XE4KUZ2JPYaN-Xc16xdzS2JA&s=10" group-title="Playlist banyak off server kagak kuat",Server Kaga kuat 
 https://cdn.pixabay.com/video/2021/01/17/62216-502889164_large.mp4
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="NASIONAL",TVRI Nasional (HLS - Tanpa DRM)
@@ -22,7 +22,7 @@ https://payment.roadrunner-monitor.ts.net:8443/mnctv.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s", RCTI 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGcmN0aSUyRmluZXdzaWQmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=
+
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/Xye0dwc1q7gsdu4aUfOywAouEYc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg", GTV 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
